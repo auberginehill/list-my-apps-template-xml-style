@@ -1,0 +1,31 @@
+   <Descriptions>
+      <Description_Comment>Whatever was entered as a comment in the "Annotations" screen.</Description_Comment>
+      <Description_DataDirectory>Directory that was assigned to the app by the Android system for storing it's private files.</Description_DataDirectory>
+      <Description_FirstInstalled>The time (formated according to the system's locale setting) when the app was installed.</Description_FirstInstalled>
+      <Description_LastUpdated>The time (formated according to the system's locale setting) when the app was last updated.</Description_LastUpdated>
+      <Description_ListGenerated>The current time (when the list was created), formated according to the system's locale setting (Only available for headers/footers).</Description_ListGenerated>
+      <Description_MarketID>Identifier of the market app that installed the app. For Google Play, this is 'com.google.vending'. Not all market apps set this. Sideloaded apps will always have an empty id.</Description_MarketID>
+      <Description_MarketLink></Description_MarketLink>
+      <Description_Name>This is how the app identifies itself to the user. Unlike the packagename, the displayname is not required to be unique and an app may even have several displaynames (e.g. when translated into different languages).</Description_Name>
+      <Description_PackageName>This is the unique key by which an app is identified. For example, the key for List My Apps is 'de.onyxbits.listmyapps'. The packagename plays a major role in finding apps on markets.</Description_PackageName>
+      <Description_Tags>The tags, the app was annotated with.</Description_Tags>
+      <Description_TargetSDK>Version number of the Android platform, the app was designed to run on. The app may run on lower platform levels, but is guaranteed to run on higher ones.</Description_TargetSDK>
+      <Description_TotalNumberOfInstalledApps>Number of apps in the list (Only available for headers/footers).</Description_TotalNumberOfInstalledApps>
+      <Description_UID>The user id that was assigned to the app by the Android system upon installation.</Description_UID>
+      <Description_Version>The version label of the app as it is shown to the user (e.g. a string like 'v2.1').</Description_Version>
+      <Description_VersionCode>Numerical (internal) version name of the app. The general contract is: the latest release has the highest number.</Description_VersionCode>
+      <Description_www>A HTTP/HTTPS URL that will link to where the app was installed from (or Google search if no source could be determined).</Description_www>
+      <Description_GoogleStore></Description_GoogleStore>
+      <Description_SearchGoogle></Description_SearchGoogle>
+      <Description_DuckDuckGo></Description_DuckDuckGo>
+   </Descriptions>
+   <meta_2>
+      <ListCreatedWith>List My Apps</ListCreatedWith>
+      <ListAppStoreLink>https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps</ListAppStoreLink>
+      <ListAppHomepageLink>http://www.onyxbits.de/listmyapps</ListAppHomepageLink>
+      <ListAppDiscussionThreadLink>http://forum.xda-developers.com/showthread.php?t=2460266</ListAppDiscussionThreadLink>
+      <TemplateSource>http://pastebin.com/qQDKwSG0</TemplateSource>
+      <ListGenerated_2>${now}</ListGenerated_2>
+      <TotalNumberOfInstalledApps_2>${count}</TotalNumberOfInstalledApps_2>
+   </meta_2>
+</InstalledApps>
