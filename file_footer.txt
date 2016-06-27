@@ -24,7 +24,7 @@
       <ListAppStoreLink>https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps</ListAppStoreLink>
       <ListAppHomepageLink>http://www.onyxbits.de/listmyapps</ListAppHomepageLink>
       <ListAppDiscussionThreadLink>http://forum.xda-developers.com/showthread.php?t=2460266</ListAppDiscussionThreadLink>
-      <TemplateSource>http://pastebin.com/qQDKwSG0</TemplateSource>
+      <TemplateSource>https://github.com/auberginehill/list-my-apps-template-xml-style</TemplateSource>
       <ListGenerated_2>${now}</ListGenerated_2>
       <TotalNumberOfInstalledApps_2>${count}</TotalNumberOfInstalledApps_2>
    </meta_2>
