@@ -42,7 +42,7 @@
    </tr>
    <tr>
         <td><strong>Download:</strong></td>
-        <td>For instance <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_footer.txt">parts</a>.</td>
+        <td>For instance <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_footer.txt">parts</a> and the <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/style.xsl">style.xsl</a> -file.</td>
    </tr>
 </table>
 
