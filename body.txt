@@ -1,0 +1,19 @@
+   <App id="${packagename}">
+      <Name>${displayname}</Name>
+      <Comment>${comment}</Comment>
+      <DataDirectory>${datadir}</DataDirectory>
+      <FirstInstalled>${firstinstalled}</FirstInstalled>
+      <LastUpdated>${lastupdated}</LastUpdated>
+      <MarketID>${marketid}</MarketID>
+      <MarketLink>market://details?id=${packagename}</MarketLink>
+      <PackageName>${packagename}</PackageName>
+      <Tags>${tags}</Tags>
+      <TargetSDK>${targetsdk}</TargetSDK>
+      <UID>${uid}</UID>
+      <Version>${version}</Version>
+      <VersionCode>${versioncode}</VersionCode>
+      <www>${source}</www>
+      <GoogleStore>https://play.google.com/store/apps/details?id=${packagename}</GoogleStore>
+      <SearchGoogle>https://www.google.com/search?q=${packagename}</SearchGoogle>
+      <DuckDuckGo>https://duckduckgo.com/?q=${packagename}+"${displayname}"</DuckDuckGo>
+</App>
