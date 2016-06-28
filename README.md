@@ -41,8 +41,8 @@
         </td>
    </tr>
    <tr>
-        <td><strong>Download:</strong></td>
-        <td>For instance <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/file_footer.txt">parts</a> and the <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/blob/master/style.xsl">style.xsl</a> -file.</td>
+        <td><strong>Downloads:</strong></td>
+        <td>For instance <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_header.txt">three</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/body.txt">separate</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_footer.txt">parts</a> and the <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/style.xsl">style.xsl</a> -file.</td>
    </tr>
 </table>
 
@@ -58,7 +58,7 @@
 
 <table>
    <tr>
-        <th><img class="emoji" title="remarks" alt="remarks" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png"></th>
+        <th>:warning:</th>
         <td>
             <ul>
                 <li>List My Apps custom templates consist of three fields ("List header", "Item format" and "List footer"). In this project the actual template code for List My Apps and the source code for the separate XSLT stylesheet -file can be found as described below:</li>
@@ -111,7 +111,7 @@
 
 <table>
    <tr>
-        <th><img class="emoji" title="tutorial" alt="tutorial" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png"></th>
+        <th>:book:</th>
         <td>To open this code with an Android device, for instance:</td>
    </tr>
    <tr>
@@ -252,7 +252,7 @@
         <td><a href="https://github.com/auberginehill/list-my-apps-template-xml-style">Template Homepage</a></td>
    </tr>
    <tr>
-        <td rowspan="8"></td>
+        <td rowspan="9"></td>
         <td><a href="https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps">List My Apps</a> (Google Play)</td>
    </tr>
    <tr>
@@ -262,19 +262,22 @@
         <td><a href="http://forum.xda-developers.com/showthread.php?t=2460266">List My Apps' application thread</a> at xda-developers.com</td>
    </tr> 
    <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=com.aor.droidedit">DroidEdit Free</a> (free code editor)</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.aor.droidedit">DroidEdit Free</a> (free code editor)</td>
    </tr>
    <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=fr.xgouchet.xmleditor">Axel (XML Editor / Viewer)</a></td>
+        <td><a href="https://play.google.com/store/apps/details?id=fr.xgouchet.xmleditor">Axel (XML Editor / Viewer)</a></td>
    </tr>
    <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">Firefox for Android</a></td>
+        <td><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">Firefox for Android</a></td>
    </tr>
    <tr>
-      <td><a href="https://text-compare.com/#">Text Compare</a></td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.alorma.github">Gitskarios for Github</a></td>
    </tr>
    <tr>
-      <td><a href="http://htmlescape.net/htmlescape_tool.html">Escape HTML Entities</a></td>
+        <td><a href="https://text-compare.com/#">Text Compare</a></td>
+   </tr>
+   <tr>
+        <td><a href="http://www.freeformatter.com/xml-escape.html">XML Escape</a></td>
    </tr>
 </table>
 
@@ -311,7 +314,7 @@
 
 <table>
     <tr>
-        <th><img class="emoji" title="www" alt="www" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png"></th>
+        <th>:heavy_exclamation_mark:</th>
         <td>
             <ul>
                 <li>Please include one empty row after "File Header" and "Body" in the List My Apps template (so that the script will write each data row on its own row).</li>
