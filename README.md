@@ -42,7 +42,7 @@
    </tr>
    <tr>
         <td><strong>Downloads:</strong></td>
-        <td>For instance <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_header.txt">three</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/body.txt">separate</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_footer.txt">parts</a> and the <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/style.xsl">style.xsl</a> -file.</td>
+        <td>For instance <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_header.txt">three</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/body.txt">separate</a> <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/file_footer.txt">parts</a> and the <a href="https://raw.githubusercontent.com/auberginehill/list-my-apps-template-xml-style/master/style.xsl">style.xsl</a> -file. Or <a href="https://github.com/auberginehill/list-my-apps-template-xml-style/archive/master.zip">everything as a .zip-file</a>.</td>
    </tr>
 </table>
 
