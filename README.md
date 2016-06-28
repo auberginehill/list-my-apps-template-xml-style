@@ -34,6 +34,10 @@
                     <td><a href="https://api.github.com/emojis">https://api.github.com/emojis</a></td>
                 </tr>
                 <tr>
+                    <td>ASCII Art:</td>
+                    <td>ASCII font big by Glenn Chappell: <a href="http://www.figlet.org/">http://www.figlet.org/</a> and <a href="http://www.network-science.de/ascii/">http://www.network-science.de/ascii/</a> </td>
+                </tr>
+                <tr>
                     <td>Descriptions of the variables:</td>
                     <td><a href="http://www.onyxbits.de/faq-page/22#t22n48">http://www.onyxbits.de/faq-page/22#t22n48</a></td>
                 </tr>
