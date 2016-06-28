@@ -11,7 +11,7 @@
    </tr>
    <tr>
         <td><strong>Language:</strong></td>
-        <td>XML (with custom variables)</td>
+        <td>XML (with custom variables) and XSLT</td>
    </tr>
    <tr>
         <td><strong>Description:</th>
