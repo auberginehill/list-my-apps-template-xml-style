@@ -16,6 +16,7 @@
       <Description_VersionCode>Numerical (internal) version name of the app. The general contract is: the latest release has the highest number.</Description_VersionCode>
       <Description_www>A HTTP/HTTPS URL that will link to where the app was installed from (or Google search if no source could be determined).</Description_www>
       <Description_GoogleStore></Description_GoogleStore>
+      <Description_FDroid></Description_FDroid>
       <Description_SearchGoogle></Description_SearchGoogle>
       <Description_DuckDuckGo></Description_DuckDuckGo>
    </Descriptions>
