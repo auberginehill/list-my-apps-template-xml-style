@@ -47,6 +47,7 @@
       <VersionCode>${versioncode}</VersionCode>
       <www>${source}</www>
       <GoogleStore>https://play.google.com/store/apps/details?id=${packagename}</GoogleStore>
+      <FDroid>https://f-droid.org/repository/browse/?fdid=${packagename}</FDroid>
       <SearchGoogle>https://www.google.com/search?q=${packagename}</SearchGoogle>
       <DuckDuckGo>https://duckduckgo.com/?q=${packagename}+"${displayname}"</DuckDuckGo>
    </App>
@@ -92,6 +93,7 @@
       <Description_VersionCode>Numerical (internal) version name of the app. The general contract is: the latest release has the highest number.</Description_VersionCode>
       <Description_www>A HTTP/HTTPS URL that will link to where the app was installed from (or Google search if no source could be determined).</Description_www>
       <Description_GoogleStore></Description_GoogleStore>
+      <Description_FDroid></Description_FDroid>
       <Description_SearchGoogle></Description_SearchGoogle>
       <Description_DuckDuckGo></Description_DuckDuckGo>
    </Descriptions>
@@ -179,7 +181,7 @@
                      </tr>
                      <tr style="background-color:white">
                         <th style="text-align:left; padding:14px">Market Link</th>
-                        <td style="text-align:left; padding:14px"><xsl:value-of select="MarketLink"/></td>
+                        <td style="text-align:left; padding:14px"><a href="{MarketLink}"><xsl:value-of select="MarketLink"/></a></td>
                      </tr>
                      <tr style="background-color:#cccccc">
                         <th style="text-align:left; padding:14px">Name</th>
@@ -217,11 +219,15 @@
                         <th style="text-align:left; padding:14px">Google Store</th>
                         <td style="text-align:left; padding:14px"><a href="{GoogleStore}"><xsl:value-of select="GoogleStore"/></a></td>
                      </tr>
-                     <tr style="background-color:white">
+                     <tr style="background-color:#white">
+                        <th style="text-align:left; padding:14px">F-Droid</th>
+                        <td style="text-align:left; padding:14px"><a href="{FDroid}"><xsl:value-of select="FDroid"/></a></td>
+                     </tr>
+                     <tr style="background-color:cccccc">
                         <th style="text-align:left; padding:14px">Search (Google)</th>
                         <td style="text-align:left; padding:14px"><a href="{SearchGoogle}"><xsl:value-of select="SearchGoogle"/></a></td>
                      </tr>
-                     <tr style="background-color:#cccccc">
+                     <tr style="background-color:#white">
                         <th style="text-align:left; padding:14px">DuckDuckGo</th>
                         <td style="text-align:left; padding:14px"><a href="{DuckDuckGo}"><xsl:value-of select="DuckDuckGo"/></a></td>
                      </tr>
