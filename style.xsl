@@ -45,7 +45,7 @@
                      </tr>
                      <tr style="background-color:white">
                         <th style="text-align:left; padding:14px">Market Link</th>
-                        <td style="text-align:left; padding:14px"><xsl:value-of select="MarketLink"/></td>
+                        <td style="text-align:left; padding:14px"><a href="{MarketLink}"><xsl:value-of select="MarketLink"/></a></td>
                      </tr>
                      <tr style="background-color:#cccccc">
                         <th style="text-align:left; padding:14px">Name</th>
@@ -83,11 +83,15 @@
                         <th style="text-align:left; padding:14px">Google Store</th>
                         <td style="text-align:left; padding:14px"><a href="{GoogleStore}"><xsl:value-of select="GoogleStore"/></a></td>
                      </tr>
-                     <tr style="background-color:white">
+                     <tr style="background-color:#white">
+                        <th style="text-align:left; padding:14px">F-Droid</th>
+                        <td style="text-align:left; padding:14px"><a href="{FDroid}"><xsl:value-of select="FDroid"/></a></td>
+                     </tr>
+                     <tr style="background-color:cccccc">
                         <th style="text-align:left; padding:14px">Search (Google)</th>
                         <td style="text-align:left; padding:14px"><a href="{SearchGoogle}"><xsl:value-of select="SearchGoogle"/></a></td>
                      </tr>
-                     <tr style="background-color:#cccccc">
+                     <tr style="background-color:#white">
                         <th style="text-align:left; padding:14px">DuckDuckGo</th>
                         <td style="text-align:left; padding:14px"><a href="{DuckDuckGo}"><xsl:value-of select="DuckDuckGo"/></a></td>
                      </tr>
