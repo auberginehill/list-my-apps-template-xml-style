@@ -14,6 +14,7 @@
       <VersionCode>${versioncode}</VersionCode>
       <www>${source}</www>
       <GoogleStore>https://play.google.com/store/apps/details?id=${packagename}</GoogleStore>
+      <FDroid>https://f-droid.org/repository/browse/?fdid=${packagename}</FDroid>
       <SearchGoogle>https://www.google.com/search?q=${packagename}</SearchGoogle>
       <DuckDuckGo>https://duckduckgo.com/?q=${packagename}+"${displayname}"</DuckDuckGo>
-</App>
+   </App>
