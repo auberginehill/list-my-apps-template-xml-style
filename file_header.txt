@@ -4,4 +4,4 @@
    <meta>
       <ListGenerated>${now}</ListGenerated>
       <TotalNumberOfInstalledApps>${count}</TotalNumberOfInstalledApps>
-</meta>
+   </meta>
